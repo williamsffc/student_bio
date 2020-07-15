@@ -2,19 +2,22 @@ body {
     background-color: #efeee7;
     margin: 0;
     padding: 0;
-    font-family: "Georgia", "Times New Roman",
-        'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    font-size: 17px;
     line-height: 150%;
+    color: #333333;
+}
+
+header{
+    background-color: #333333;
 }
 
 h1 {
-    color: #efeee7;
+    color: #eee;
     background-color: black;
     margin: 0;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px 0;
     font-size: 28px;
 }
 
